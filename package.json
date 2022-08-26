@@ -7,11 +7,11 @@
   ],
   "types": "./dist/Spline.d.ts",
   "main": "./dist/react-spline.cjs.js",
-  "module": "./dist/react-spline.es.js",
-  "react-native": "./dist/react-spline.es.js",
+  "module": "./dist/react-spline.es.mjs",
+  "react-native": "./dist/react-spline.es.mjs",
   "exports": {
     ".": {
-      "import": "./dist/react-spline.es.js",
+      "import": "./dist/react-spline.es.mjs",
       "require": "./dist/react-spline.cjs.js"
     }
   },
